@@ -1,0 +1,49 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "xxx",
+    "packageName": "com.xxx.rte",
+    "packageFolder": "com/xxx/rte",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "gatling",
+      "cucumber",
+      "protractor"
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.4.1",
+    "jwtSecretKey": "NWEwOGE1ZGIwMzA5MWY1MWJkYWY0OTM1Yzc1NzVkMWIxOWIwNThjNWZiYjg5ZTE3MDMzNjlhN2E5MmQ3Y2ExZjUwNTkzYWZlZTQ5MGEyYjQ3OGRkYmQzNmNkMWQ5ZmUwODhmOWM2MTQyYTM0MmVkZTgzZjc0ODQ4ODE1NjM5MDM=",
+    "embeddableLaunchScript": false,
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "blueprints": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "terracina-r",
+  "repository-name": "xxx"
+}
